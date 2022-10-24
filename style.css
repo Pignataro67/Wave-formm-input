@@ -19,13 +19,13 @@ body {
 
 .container {
     background-color: rgba(0, 0, 0, 0.4);
-    padding: 20px 40px;
-    border-radius: 5px;
+    padding: 20px 45px;
+    border-radius: 7px;
   }
   
   .container h1 {
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
   }  
 
   .container a {
