@@ -42,7 +42,7 @@ body {
     font-family: inherit;  
     font-size: 16px;
     border: 0;
-    border-radius: 5px;
+    border-radius: 10px;
   }
   
   .btn:focus {
@@ -54,15 +54,13 @@ body {
   }
 
   .text {
-    margin-top: 30px;
+    margin-top: 25px;
   }
-
-  
 
   .form-control input {
   background-color: transparent;
   border: 0;
-  border-bottom: 2px #fff solid;
+  border-bottom: 5px #fff solid;
   display: block;
   width: 100%;
   padding: 18px 0;
